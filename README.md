@@ -8,8 +8,8 @@ Along the way, I stopped to do some basic analysis of my musical interests and i
 
 - Generally speaking im a C# and major key kind of guy.
 
-	![[images/liked_keys.png]]
+	![](images/liked_keys.png)
 	
 - My top 50 artists by number of liked songs:
-	![[my_top_50.png]]
+	![](images/my_top_50.png)
 
